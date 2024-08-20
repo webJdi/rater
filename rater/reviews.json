@@ -1,0 +1,185 @@
+{
+    "reviews": [
+      {
+        "book": "The Name of the Wind",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A beautifully written, gripping story of a young wizard and his rise to legend."
+      },
+      {
+        "book": "The Way of Kings",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "An epic journey filled with rich characters, political intrigue, and magical landscapes."
+      },
+      {
+        "book": "A Song of Ice and Fire",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "Complex characters and unpredictable plots in a brutally realistic world."
+      },
+      {
+        "book": "The Hobbit",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A classic adventure that set the stage for modern fantasy literature."
+      },
+      {
+        "book": "The Lies of Locke Lamora",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A thrilling heist story with rich world-building and witty banter."
+      },
+      {
+        "book": "The Blade Itself",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A gritty, realistic take on the fantasy genre with dark characters and sharp dialogue."
+      },
+      {
+        "book": "Mistborn: The Final Empire",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A unique magic system and an engaging plot make this a must-read."
+      },
+      {
+        "book": "Harry Potter and the Philosopher's Stone",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A magical tale that captured the imagination of millions around the world."
+      },
+      {
+        "book": "The Black Prism",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A fascinating world with a unique light-based magic system."
+      },
+      {
+        "book": "The Wheel of Time: The Eye of the World",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "An epic saga with detailed world-building and intricate plots."
+      },
+      {
+        "book": "American Gods",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A mythic tale of gods and mortals, woven together in a rich narrative."
+      },
+      {
+        "book": "The Broken Empire: Prince of Thorns",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A dark and violent story with a morally ambiguous protagonist."
+      },
+      {
+        "book": "The Witcher: Blood of Elves",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "Rich in lore and adventure, with a memorable main character."
+      },
+      {
+        "book": "Good Omens",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A hilarious and imaginative collaboration between two masters of fantasy."
+      },
+      {
+        "book": "Jonathan Strange & Mr Norrell",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A slow-burn historical fantasy with intricate magic and detailed characters."
+      },
+      {
+        "book": "The Priory of the Orange Tree",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A sprawling epic with dragons, political intrigue, and diverse characters."
+      },
+      {
+        "book": "The Malazan Book of the Fallen: Gardens of the Moon",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "Dense and complex with immense world-building and rich lore."
+      },
+      {
+        "book": "The Dark Tower: The Gunslinger",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A unique blend of fantasy, western, and horror elements in a compelling tale."
+      },
+      {
+        "book": "The Once and Future King",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A whimsical yet profound retelling of the Arthurian legends."
+      },
+      {
+        "book": "Elantris",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A stand-alone fantasy with an intriguing premise and engaging characters."
+      },
+      {
+        "book": "The Dragonbone Chair",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A sweeping epic with well-drawn characters and a richly imagined world."
+      },
+      {
+        "book": "The Rage of Dragons",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "An African-inspired fantasy with intense action and a gripping story."
+      },
+      {
+        "book": "The Bone Ships",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A unique seafaring adventure with engaging characters and imaginative world-building."
+      },
+      {
+        "book": "The Fifth Season",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A stunning blend of science fiction and fantasy with a powerful narrative."
+      },
+      {
+        "book": "Assassin’s Apprentice",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A deeply emotional coming-of-age story with a rich medieval setting."
+      },
+      {
+        "book": "The Shadow of the Gods",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A Norse-inspired epic with intense battles and compelling characters."
+      },
+      {
+        "book": "The Emperor’s Blades",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A fast-paced story filled with intrigue, assassinations, and family dynamics."
+      },
+      {
+        "book": "An Ember in the Ashes",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "A heart-pounding story of rebellion and survival in a Roman-inspired world."
+      },
+      {
+        "book": "The Stormlight Archive: Words of Radiance",
+        "genre": "Fantasy",
+        "stars": 5,
+        "review": "An expansive and gripping second entry in the Stormlight Archive series."
+      },
+      {
+        "book": "City of Stairs",
+        "genre": "Fantasy",
+        "stars": 4,
+        "review": "A unique and gripping tale of gods, politics, and mystery."
+      }
+    ]
+  }
+  
