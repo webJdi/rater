@@ -179,7 +179,368 @@
         "genre": "Fantasy",
         "stars": 4,
         "review": "A unique and gripping tale of gods, politics, and mystery."
+      },
+      {
+        "book": "Good to Great",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "An insightful exploration of what makes companies achieve lasting greatness."
+      },
+      {
+        "book": "The Lean Startup",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A practical guide to launching and scaling businesses efficiently."
+      },
+      {
+        "book": "Built to Last",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "An inspiring look at visionary companies that have stood the test of time."
+      },
+      {
+        "book": "The Innovator's Dilemma",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "A thought-provoking book on disruptive innovation and how it impacts businesses."
+      },
+      {
+        "book": "Blue Ocean Strategy",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A brilliant approach to finding uncontested market spaces and making competition irrelevant."
+      },
+      {
+        "book": "Start with Why",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A powerful exploration of the importance of purpose and vision in business."
+      },
+      {
+        "book": "The 7 Habits of Highly Effective People",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A classic guide to personal and professional effectiveness, relevant to business leaders."
+      },
+      {
+        "book": "The Art of Strategy",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "A deep dive into game theory and how it can be applied to business decision-making."
+      },
+      {
+        "book": "Principles: Life and Work",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "An essential read on decision-making and leadership from one of the world’s top investors."
+      },
+      {
+        "book": "The E-Myth Revisited",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "A guide to building businesses that thrive without the constant need for owner intervention."
+      },
+      {
+        "book": "How to Win Friends and Influence People",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A timeless classic on building relationships and leadership influence in business."
+      },
+      {
+        "book": "Measure What Matters",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "An impactful guide to using OKRs to drive growth and alignment in organizations."
+      },
+      {
+        "book": "Thinking, Fast and Slow",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "An insightful exploration into decision-making processes, crucial for business leaders."
+      },
+      {
+        "book": "The Five Dysfunctions of a Team",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "An important book on building effective teams and avoiding common pitfalls."
+      },
+      {
+        "book": "Radical Candor",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A brilliant guide to effective leadership by fostering open, honest communication."
+      },
+      {
+        "book": "Drive: The Surprising Truth About What Motivates Us",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "An insightful look at motivation and how businesses can harness intrinsic drives."
+      },
+      {
+        "book": "Crucial Conversations",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "A guide to navigating difficult conversations effectively, essential for business leaders."
+      },
+      {
+        "book": "The Hard Thing About Hard Things",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "An honest and practical guide to entrepreneurship and running a successful business."
+      },
+      {
+        "book": "The Four Disciplines of Execution",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "A structured framework for achieving organizational goals through focused execution."
+      },
+      {
+        "book": "Dare to Lead",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "An inspiring take on leadership with vulnerability, courage, and connection at the core."
+      },
+      {
+        "book": "Scaling Up",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "A detailed blueprint for growing companies systematically and sustainably."
+      },
+      {
+        "book": "Zero to One",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A provocative book on innovation, entrepreneurship, and creating truly unique businesses."
+      },
+      {
+        "book": "Leaders Eat Last",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A powerful book on leadership that emphasizes the importance of putting others first."
+      },
+      {
+        "book": "Rework",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "An unconventional take on business management, challenging common assumptions."
+      },
+      {
+        "book": "The Power of Habit",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "An insightful guide on how habits form and how businesses can leverage them for success."
+      },
+      {
+        "book": "The Effective Executive",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A classic book on time management and decision-making for business leaders."
+      },
+      {
+        "book": "Emotional Intelligence 2.0",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "An essential read on emotional intelligence and its impact on leadership and business success."
+      },
+      {
+        "book": "Blue Ocean Shift",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A follow-up to Blue Ocean Strategy, with actionable strategies for unlocking new growth."
+      },
+      {
+        "book": "Multipliers",
+        "genre": "Business Administration",
+        "stars": 4,
+        "review": "A guide on how leaders can unlock the full potential of their teams."
+      },
+      {
+        "book": "First, Break All the Rules",
+        "genre": "Business Administration",
+        "stars": 5,
+        "review": "A groundbreaking book on leadership, focused on identifying and leveraging individual strengths."
+      },
+      {
+        "book": "The Girl with the Dragon Tattoo",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A gripping mystery with a complex plot and an unforgettable protagonist."
+      },
+      {
+        "book": "Gone Girl",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A psychological thriller that keeps you guessing until the very end."
+      },
+      {
+        "book": "The Silent Patient",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A suspenseful story with a shocking twist that redefines the genre."
+      },
+      {
+        "book": "The Girl on the Train",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A page-turning psychological thriller with unreliable narrators and intense drama."
+      },
+      {
+        "book": "The Da Vinci Code",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A fast-paced mystery filled with puzzles, history, and religious intrigue."
+      },
+      {
+        "book": "The Couple Next Door",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A domestic thriller with plenty of twists and turns to keep you on edge."
+      },
+      {
+        "book": "Before I Go to Sleep",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A tense, mind-bending thriller where memory plays tricks on both the characters and readers."
+      },
+      {
+        "book": "The Woman in the Window",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A psychological thriller full of paranoia and suspense with a Hitchcockian flair."
+      },
+      {
+        "book": "Shutter Island",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A dark and atmospheric psychological thriller with a twist that leaves you reeling."
+      },
+      {
+        "book": "I Am Watching You",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A gripping story of a missing person case, filled with mystery and suspense."
+      },
+      {
+        "book": "The Reversal",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A legal thriller with gripping courtroom drama and tense plot twists."
+      },
+      {
+        "book": "The Girl Who Played with Fire",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "An electrifying continuation of the Millennium series with intense action and suspense."
+      },
+      {
+        "book": "Behind Closed Doors",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A chilling domestic thriller where nothing is as perfect as it seems."
+      },
+      {
+        "book": "The Night Manager",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A classic espionage thriller filled with intrigue and high-stakes tension."
+      },
+      {
+        "book": "The Snowman",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A chilling Scandinavian thriller with a gripping plot and a sinister atmosphere."
+      },
+      {
+        "book": "The Girl Who Kicked the Hornet's Nest",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A powerful conclusion to the Millennium series with intricate plotting and thrilling action."
+      },
+      {
+        "book": "Sharp Objects",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A dark and disturbing psychological thriller that delves deep into family secrets."
+      },
+      {
+        "book": "The President is Missing",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A political thriller with nonstop action and a terrifyingly real plot."
+      },
+      {
+        "book": "The Cuckoo’s Calling",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "An engrossing detective thriller with rich characters and a surprising mystery."
+      },
+      {
+        "book": "Big Little Lies",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A sharp, witty thriller that explores the secrets and lies of suburban life."
+      },
+      {
+        "book": "An Anonymous Girl",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A psychological thriller that explores the dangerous consequences of manipulation."
+      },
+      {
+        "book": "Dark Places",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A dark and gritty thriller that unearths buried secrets in a haunting way."
+      },
+      {
+        "book": "The Last Mrs. Parrish",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A domestic thriller filled with manipulation, deceit, and plenty of surprises."
+      },
+      {
+        "book": "The Outsider",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A supernatural thriller that blends crime with horror, keeping readers on the edge."
+      },
+      {
+        "book": "You",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A chilling psychological thriller told from the perspective of an obsessive stalker."
+      },
+      {
+        "book": "The Wife Between Us",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A twisty thriller that will make you question every character's motives."
+      },
+      {
+        "book": "My Sister's Grave",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A compelling crime thriller that is both suspenseful and emotionally gripping."
+      },
+      {
+        "book": "The Chain",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A terrifying and thrilling concept that keeps you hooked from the very first page."
+      },
+      {
+        "book": "No Exit",
+        "genre": "Thriller",
+        "stars": 5,
+        "review": "A nail-biting thriller with a strong sense of urgency and intense twists."
+      },
+      {
+        "book": "The Couple Next Door",
+        "genre": "Thriller",
+        "stars": 4,
+        "review": "A tense and suspenseful thriller filled with unexpected twists and shocking reveals."
       }
     ]
   }
+  
   
