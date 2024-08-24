@@ -43,7 +43,7 @@
         "review": "A unique magic system and an engaging plot make this a must-read."
       },
       {
-        "book": "Harry Potter and the Philosopher's Stone",
+        "book": "Harry Potter and the Philosophers Stone",
         "genre": "Fantasy",
         "stars": 5,
         "review": "A magical tale that captured the imagination of millions around the world."
@@ -145,7 +145,7 @@
         "review": "A stunning blend of science fiction and fantasy with a powerful narrative."
       },
       {
-        "book": "Assassin’s Apprentice",
+        "book": "Assassins Apprentice",
         "genre": "Fantasy",
         "stars": 4,
         "review": "A deeply emotional coming-of-age story with a rich medieval setting."
@@ -157,7 +157,7 @@
         "review": "A Norse-inspired epic with intense battles and compelling characters."
       },
       {
-        "book": "The Emperor’s Blades",
+        "book": "The Emperors Blades",
         "genre": "Fantasy",
         "stars": 4,
         "review": "A fast-paced story filled with intrigue, assassinations, and family dynamics."
@@ -199,7 +199,7 @@
         "review": "An inspiring look at visionary companies that have stood the test of time."
       },
       {
-        "book": "The Innovator's Dilemma",
+        "book": "The Innovators Dilemma",
         "genre": "Business Administration",
         "stars": 4,
         "review": "A thought-provoking book on disruptive innovation and how it impacts businesses."
@@ -451,7 +451,7 @@
         "review": "A chilling Scandinavian thriller with a gripping plot and a sinister atmosphere."
       },
       {
-        "book": "The Girl Who Kicked the Hornet's Nest",
+        "book": "The Girl Who Kicked the Hornets Nest",
         "genre": "Thriller",
         "stars": 5,
         "review": "A powerful conclusion to the Millennium series with intricate plotting and thrilling action."
@@ -469,7 +469,7 @@
         "review": "A political thriller with nonstop action and a terrifyingly real plot."
       },
       {
-        "book": "The Cuckoo’s Calling",
+        "book": "The Cuckoos Calling",
         "genre": "Thriller",
         "stars": 4,
         "review": "An engrossing detective thriller with rich characters and a surprising mystery."
@@ -514,10 +514,10 @@
         "book": "The Wife Between Us",
         "genre": "Thriller",
         "stars": 4,
-        "review": "A twisty thriller that will make you question every character's motives."
+        "review": "A twisty thriller that will make you question every characters motives."
       },
       {
-        "book": "My Sister's Grave",
+        "book": "My Sisters Grave",
         "genre": "Thriller",
         "stars": 4,
         "review": "A compelling crime thriller that is both suspenseful and emotionally gripping."
