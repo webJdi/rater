@@ -1,4 +1,4 @@
-'use client'
+'use client';
 
 import { TextField, Box, Stack, Button, createTheme, ThemeProvider } from "@mui/material";
 import { useState } from "react";
@@ -21,7 +21,7 @@ export default function Home() {
     ]);
     setMessage('');
 
-    const response = fetch('/api/chat/', {
+    const response = fetch('../api/chat/', {
       method: "POST",
       headers: {
         'content-type': 'application/json'
