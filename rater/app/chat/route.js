@@ -46,7 +46,6 @@ export async function POST(req){
     const data = await req.json();
     const pc = new Pinecone({
         apiKey: process.env.PINECONE_API_KEY
-
     })
     const index = pc.index('rag').namespace('ns1')
     const openai = new OpenAI({
@@ -87,7 +86,7 @@ export async function POST(req){
       const lastMessageContent = lastMessage.content + resultString
       const lastDataWithoutLastMessage = data.slice(0, data.length - 1)
 
-      const completion = await openai.chat.completions.create({
+      const completion = await OpenAI.chat.completions.create({
         messages: [
           {
             role: "system",
@@ -100,10 +99,10 @@ export async function POST(req){
           },
         ],
         model: "meta-llama/llama-3.1-8b-instruct:free",
-         stream: true
+        stream: true
       });
 
-      const stream = ReadableStream({
+      const stream = new ReadableStream({
         async start(controller){
           const encoder = new TextEncoder()
           try

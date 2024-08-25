@@ -1,5 +1,6 @@
 'use client'
 
+import { TextField } from "@mui/material";
 import Image from "next/image";
 import { useState } from "react";
 
@@ -9,16 +10,16 @@ export default function Home() {
       role:'assistant',
       content: "Hi! I'm the GreatReads assistant. How can I help you today?" 
     }
+  ])
 
   const [message, setMessage] = useState('')
+  
   const sendMessage = async() => {
-    setMessage=((messages) => [
+    setMessages((messages) => [
       ...messages,
       {role:"user", content: message},
       {role:"assistant", content: ''}
-    ])
-
-    
+    ])  
     setMessage('')
     const response = fetch('/api/chat/',{
       method:"POST",
@@ -37,7 +38,7 @@ export default function Home() {
           return result
         }
         const text = decoder.decode(value || new Uint8Array(), {stream: true})
-        setMessages((message) => {
+        setMessages((messages) => {
           let lastMessage = messages[messages.length - 1]
           let otherMessages = messages.slice(0, messages.length -1)
           return [
@@ -63,8 +64,52 @@ export default function Home() {
         flexDirection={'column'}
         justifyContent={'center'}
     >
-        <Stack>
-          
+        <Stack
+          direction="column"
+          width="500px"
+          height="700px"
+          border="1px solid black"
+          p={2}
+          spacing={3}
+        >
+          <Stack
+            direction='column'
+            spacing={2}
+            flexGrow={1}
+            overflow={'auto'}
+            maxHeight={'100%'}
+          >
+          {messages.map((message, index) => (
+            <Box key={index} display="flex" justifyContent={message.role === "assistant"?'flex-start':'flex-end'}>
+              <Box
+                color='#fff'
+                borderRadius={10}
+                bgcolor={message.role ==="assistant" ? 'primary.main': 'secondary.main'}
+              >
+                {message.content}
+              </Box>
+            </Box>
+
+          ))}
+          </Stack>
+          <Stack
+            direction={'row'}
+            spacing={2}
+          >
+              <TextField
+                label="Message"
+                fullWidth
+                value={message}
+                onChange={(e) => setMessage(e.target.value)}
+              >
+              </TextField>
+              <Button
+                variant='contained'
+                onClick={sendMessage}
+              >
+                Send
+              </Button>
+          </Stack>
         </Stack>
 
     </Box>
